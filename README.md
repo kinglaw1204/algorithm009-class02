@@ -1,24 +1,24 @@
-# 极客大学「算法训练营-第9期」作业提交仓库
+## 五遍刷题
 
-
-## 讲师课件下载地址
-
-请大家通过该链接查看讲师课件并进行下载，链接:https://pan.baidu.com/s/1VQEJb6BE1YL4AbEZT0icYg  密码:un6x
-
-
-## 仓库目录结构说明
-
-1. `week01/` 代表第一周作业提交目录，以此类推。
-2. 请在对应周的目录下新建或修改自己的代码作业。
-2. 每周均有一个 `REDAME.md` 文档，你可以将自己当周的学习心得以及做题过程中的思考记录在该文档中。
-
-## 作业提交规则
- 
-1. 先将本仓库 Fork 到自己 GitHub 账号下。
-2. 将 Fork 后的仓库 Clone 到本地，然后在本地仓库中对应周的目录下新建或修改自己的代码作业，当周的学习总结写在对应周的README.md文件里。
-3. 在本地仓库完成作业后，push 到自己的 GitHub 远程仓库。
-4. 最后将远程仓库中当周的作业链接，按格式贴到班级仓库对应学习周的issue下面。
-5. 提交issue请务必按照规定格式进行提交，否则作业统计工具将抓取不到你的作业提交记录。 
-
-详细的作业提交流程可以查阅：https://shimo.im/docs/m5rtM8K8rNsjw5jk/ 
+| 题目                                                         | 刷题次数                                       | 难度 |
+| ------------------------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)     | &check;  1   &check;   2   -    3  -   4   - 5 |简单|
+| [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | &check;  1   -   2   -    3  -   4   - 5       |简单|
+| [66. 加一](https://leetcode-cn.com/problems/plus-one/)  | &check;  1   -   2   -    3  -   4   - 5       |简单|
+| [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | &check;  1   -   2   -    3  -   4   - 5       |简单|
+| [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | &check;  1   -   2   -    3  -   4   - 5       |简单|
+| [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | &check;  1   -   2   -    3  -   4   - 5       |简单|
+| [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | &check;  1   &check;   2   -    3  -   4   - 5 |简单|
+| [15. 三数之和](https://leetcode-cn.com/problems/3sum/)       | -  1   -   2   -    3  -   4   - 5 |中等|
+| [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | -  1   -   2   -    3  -   4   - 5 |中等|
+| [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | -  1   -   2   -    3  -   4   - 5 |简单|
+| [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | -  1   -   2   -    3  -   4   - 5 |中等|
+| [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | -  1   -   2   -    3  -   4   - 5 |简单|
+| [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | -  1   -   2   -    3  -   4   - 5 |中等|
+| [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | -  1   -   2   -    3  -   4   - 5 |困难|
+| [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | -  1   -   2   -    3  -   4   - 5 |困难|
+| [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | -  1   -   2   -    3  -   4   - 5 |困难|
+| [641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) | -  1   -   2   -    3  -   4   - 5 |中等|
+| [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | -  1   -   2   -    3  -   4   - 5 |困难|
+| 21.[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | -  1   -   2   -    3  -   4   - 5 |简单|
 
