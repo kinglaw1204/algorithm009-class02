@@ -4,17 +4,17 @@
 
 **数组：** 插入和删除O(n),查询O(1)
 
-![image-20200522222727445](/Users/luozhou/Documents/project/algorithm009-class02/Week_01/img/array.png)
+![image-20200522222727445](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/img/array.png?raw=true)
 
 **链表：** 插入和删除O(1),查询O(n)。
 
-![image-20200522223032499](/Users/luozhou/Documents/project/algorithm009-class02/Week_01/img/linklist.png)
+![image-20200522223032499](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/img/linklist.png?raw=true)
 
 **跳表：**只能用于元素有序的情况，它最大的优势就是原理简单，容易实现，方便扩展，效率更高。查询时间复杂度O(logn)，插入和删除的时间复杂度为O(logn)。
 
 注意：现实中的跳表会出现跨步的情况，这是由于节点增删导致的。
 
-![image-20200522223402698](/Users/luozhou/Documents/project/algorithm009-class02/Week_01/img/skiplist.png)
+![image-20200522223402698](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/img/skiplist.png?raw=true)
 
  **栈**: 先进后出的容器,添加删除都是O(1)复杂度,查询是O(n)复杂度。
 
