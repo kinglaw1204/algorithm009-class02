@@ -1,18 +1,26 @@
 ## 学习笔记
 
+### 第一周
+
 ### 1.基础概念
 
-**数组：** 插入和删除O(n),查询O(1)
+**数组：** 存储在连续的内存空间、支持下标随机访问。插入及删除操作（除数组尾部）需要进行数据搬移，存储容量满时插入操作需要重新申请更大的连续内存存储并且进行数据搬移。
+
+- 时间复杂度： 插入和删除O(n),查询O(1)
 
 ![image-20200522222727445](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/img/array.png?raw=true)
 
-**链表：** 插入和删除O(1),查询O(n)。
+**链表：**存储要求不用连续的内存空间，只需要通过指针关联即可，单链表只有一个指针指向后继节点，双链表有两个指针，一个指针指向下一个节点，另一个指针指向前一个节点。
+
+- 时间复杂度：插入和删除O(1),查询O(n)。
 
 ![image-20200522223032499](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/img/linklist.png?raw=true)
 
-**跳表：**只能用于元素有序的情况，它最大的优势就是原理简单，容易实现，方便扩展，效率更高。查询时间复杂度O(logn)，插入和删除的时间复杂度为O(logn)。
+**跳表：**它对标的是平衡二叉树（AVL Tree）和二分查找，是一种插入/删除/查询都是O(log n)的数据结构，发明于1989年，它最大的优势就是原理简单，容易实现，方便扩展，效率更高。
 
-注意：现实中的跳表会出现跨步的情况，这是由于节点增删导致的。
+- 时间复杂度：查询、插入和删除都是O(logn)。
+
+注意：它只能用于元素有序的情况；现实中的跳表会出现跨步的情况，这是由于节点增删导致的。
 
 ![image-20200522223402698](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/img/skiplist.png?raw=true)
 
@@ -166,4 +174,16 @@ class MyCircularDeque {
 ```
 
 
+
+###  作业 (完成至少2题)
+
+- [x] [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+- [x] [旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+- [x] [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+- [x] [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
+- [x] [两数之和](https://leetcode-cn.com/problems/two-sum/)
+- [x] [移动零](https://leetcode-cn.com/problems/move-zeroes/)
+- [x] [加一](https://leetcode-cn.com/problems/plus-one/)
+- [x] [设计循环双端队列](https://leetcode.com/problems/design-circular-deque)
+- [ ] [接雨水](https://leetcode.com/problems/trapping-rain-water/)
 
