@@ -177,13 +177,13 @@ class MyCircularDeque {
 
 ###  作业 (完成至少2题)
 
-- [x] [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
-- [x] [旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+- [x] [删除排序数组中的重复项]([https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/%E4%BD%9C%E4%B8%9A/26.%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.java](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/作业/26.删除排序数组中的重复项.java))
+- [x] [旋转数组]([https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/%E4%BD%9C%E4%B8%9A/189.%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.java](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/作业/189.旋转数组.java))
 - [x] [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
-- [x] [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
-- [x] [两数之和](https://leetcode-cn.com/problems/two-sum/)
-- [x] [移动零](https://leetcode-cn.com/problems/move-zeroes/)
-- [x] [加一](https://leetcode-cn.com/problems/plus-one/)
-- [x] [设计循环双端队列](https://leetcode.com/problems/design-circular-deque)
+- [x] [合并两个有序数组]([https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/%E4%BD%9C%E4%B8%9A/88.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.java](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/作业/88.合并两个有序数组.java))
+- [x] [两数之和]([https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/%E4%BD%9C%E4%B8%9A/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.java](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/作业/1.两数之和.java))
+- [x] [移动零]([https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/%E4%BD%9C%E4%B8%9A/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.java](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/作业/283.移动零.java))
+- [x] [加一]([https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/%E4%BD%9C%E4%B8%9A/66.%E5%8A%A0%E4%B8%80.java](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/作业/66.加一.java))
+- [x] [设计循环双端队列]([https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/%E4%BD%9C%E4%B8%9A/641.%E8%AE%BE%E8%AE%A1%E5%BE%AA%E7%8E%AF%E5%8F%8C%E7%AB%AF%E9%98%9F%E5%88%97.java](https://github.com/kinglaw1204/algorithm009-class02/blob/master/Week_01/作业/641.设计循环双端队列.java))
 - [ ] [接雨水](https://leetcode.com/problems/trapping-rain-water/)
 
