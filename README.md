@@ -7,7 +7,7 @@
 | [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)     | &check;  1   &check;   2     &check;    3  &check;   4   - 5 |简单|
 | [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | &check;  1   &check;   2   -    3  -   4   - 5 |简单|
 | [66. 加一](https://leetcode-cn.com/problems/plus-one/)  | &check;  1   -   2   -    3  -   4   - 5       |简单|
-| [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | &check;  1   &check;   2   -    3  -   4   - 5 |简单|
+| [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | &check;  1   &check;   2   &check;    3  -   4   - 5 |简单|
 | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | &check;  1   &check;   2   -    3  -   4   - 5 |简单|
 | [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | &check;  1   -   2   -    3  -   4   - 5       |简单|
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | &check;  1   &check;   2   -    3  -   4   - 5 |简单|
@@ -49,17 +49,36 @@
 | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | &check;  1   -   2   -    3  -   4   - 5 | 中等 |
 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | &check;  1   -   2   -    3  -   4   - 5 | 简单 |
 | [589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | &check;  1   -   2   -    3  -   4   - 5 | 简单 |
-| [429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | -  1   -   2   -    3  -   4   - 5       | 中等 |
-
-
+| [429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | &check;  1   -   2   -    3  -   4   - 5 | 中等 |
 
 
 ### 5、堆和二叉堆、图
 
-| 题目                                                         | 刷题次数                           | 难度 |
-| ------------------------------------------------------------ | ---------------------------------- | ---- |
-| [40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | -  1   -   2   -    3  -   4   - 5 | 简单 |
-| [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | -  1   -   2   -    3  -   4   - 5 | 困难 |
-| [49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)  | -  1   -   2   -    3  -   4   - 5 | 中等 |
-| [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | -  1   -   2   -    3  -   4   - 5 | 中等 |
+| 题目                                                         | 刷题次数                                 | 难度 |
+| ------------------------------------------------------------ | ---------------------------------------- | ---- |
+| [40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | &check;  1   -   2   -    3  -   4   - 5 | 简单 |
+| [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | -  1   -   2   -    3  -   4   - 5       | 困难 |
+| [49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)  | -  1   -   2   -    3  -   4   - 5       | 中等 |
+| [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | -  1   -   2   -    3  -   4   - 5       | 中等 |
+
+### 6、泛型递归、树的递归
+
+| 题目                                                         | 次数                                                 | 难度 |
+| ------------------------------------------------------------ | ---------------------------------------------------- | ---- |
+| [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | &check;  1   -   2   -    3  -   4   - 5             | 中等 |
+| [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | &check;  1   &check;   2   &check;    3  -   4   - 5 | 简单 |
+| [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | &check;  1   -   2   -    3  -   4   - 5             | 中等 |
+| [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | -  1   -   2   -    3  -   4   - 5                   | 中等 |
+| [组合](https://leetcode-cn.com/problems/combinations/)       | &check;  1   -   2   -    3  -   4   - 5             | 中等 |
+| [全排列](https://leetcode-cn.com/problems/permutations/)     | -  1   -   2   -    3  -   4   - 5                   | 中等 |
+| [全排列 II ](https://leetcode-cn.com/problems/permutations-ii/) | -  1   -   2   -    3  -   4   - 5                   | 中等 |
+
+### 7、分治、回溯
+
+| 题目                                                         | 次数                                     | 难度 |
+| ------------------------------------------------------------ | ---------------------------------------- | ---- |
+| [多数元素](https://leetcode-cn.com/problems/majority-element/description/) | &check;  1   -   2   -    3  -   4   - 5 | 简单 |
+| [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | -  1   -   2   -    3  -   4   - 5       | 中等 |
+| [N 皇后](https://leetcode-cn.com/problems/n-queens/)         | -  1   -   2   -    3  -   4   - 5       | 困难 |
+| [Pow(x, n) ](https://leetcode-cn.com/problems/powx-n/)       | &check;  1   -   2   -    3  -   4   - 5 | 中等 |
 
