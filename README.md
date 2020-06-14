@@ -82,3 +82,28 @@
 | [N 皇后](https://leetcode-cn.com/problems/n-queens/)         | -  1   -   2   -    3  -   4   - 5       | 困难 |
 | [Pow(x, n) ](https://leetcode-cn.com/problems/powx-n/)       | &check;  1   -   2   -    3  -   4   - 5 | 中等 |
 
+### 8、深度优先和广度优先搜索
+
+| 题目                                                         | 次数                                     | 难度 |
+| ------------------------------------------------------------ | ---------------------------------------- | ---- |
+| [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description) | &check;  1   -   2   -    3  -   4   - 5 | 中等 |
+| [括号生成](https://leetcode-cn.com/problems/generate-parentheses/#/description) | &check;  1   -   2   -    3  -   4   - 5 | 中等 |
+| [单词接龙](https://leetcode-cn.com/problems/word-ladder/description/) | -  1   -   2   -    3  -   4   - 5       | 中等 |
+
+
+
+### 9、贪心算法
+
+| 题目                                                         | 次数                                           | 难道 |
+| ------------------------------------------------------------ | ---------------------------------------------- | ---- |
+| [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) | &check;  1   &check;   2   -    3  -   4   - 5 | 简单 |
+| [买卖股票的最佳时机 II ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | &check;  1   -   2   -    3  -   4   - 5       | 简单 |
+| [分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/) | -  1   -   2   -    3  -   4   - 5             | 简单 |
+|                                                              |                                                |      |
+
+
+
+### 10、二分查找
+
+
+
