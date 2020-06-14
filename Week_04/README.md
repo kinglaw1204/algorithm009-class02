@@ -36,7 +36,7 @@
 - [ ] [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
 - [ ] [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/)
 - [ ] [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) 
-- [ ] [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+- [x] [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 - [ ] [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
 - [ ] [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [单词接龙 II ](https://leetcode-cn.com/problems/word-ladder-ii/description/)

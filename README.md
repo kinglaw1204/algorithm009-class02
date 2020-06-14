@@ -94,16 +94,21 @@
 
 ### 9、贪心算法
 
-| 题目                                                         | 次数                                           | 难道 |
+| 题目                                                         | 次数                                           | 难度 |
 | ------------------------------------------------------------ | ---------------------------------------------- | ---- |
 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) | &check;  1   &check;   2   -    3  -   4   - 5 | 简单 |
 | [买卖股票的最佳时机 II ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | &check;  1   -   2   -    3  -   4   - 5       | 简单 |
 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/) | -  1   -   2   -    3  -   4   - 5             | 简单 |
-|                                                              |                                                |      |
 
 
 
 ### 10、二分查找
+
+| 题目                                                         | 次数                                     | 难度 |
+| ------------------------------------------------------------ | ---------------------------------------- | ---- |
+| [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | &check;  1   -   2   -    3  -   4   - 5 | 中   |
+| [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)        | -  1   -   2   -    3  -   4   - 5       | 简单 |
+| [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | -  1   -   2   -    3  -   4   - 5       | 简单 |
 
 
 
