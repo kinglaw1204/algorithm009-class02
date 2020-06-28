@@ -4,7 +4,7 @@
 
 | 题目                                                         | 刷题次数                                       | 难度 |
 | ------------------------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)     | &check;  1   &check;   2     &check;    3  &check;   4   - 5 |简单|
+| [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)     | &check;  1   &check;   2     &check;    3  &check;   4  &check; 5 |简单|
 | [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | &check;  1   &check;   2   -    3  -   4   - 5 |简单|
 | [66. 加一](https://leetcode-cn.com/problems/plus-one/)  | &check;  1   -   2   -    3  -   4   - 5       |简单|
 | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | &check;  1   &check;   2   &check;    3  -   4   - 5 |简单|
@@ -15,7 +15,7 @@
 | [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | -  1   -   2   -    3  -   4   - 5 |中等|
 | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | &check; 1   -   2   -    3  -   4   - 5 |简单|
 | [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | -  1   -   2   -    3  -   4   - 5 |中等|
-| [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | -  1   -   2   -    3  -   4   - 5 |简单|
+| [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | &check;  1   -   2   -    3  -   4   - 5 |简单|
 | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | -  1   -   2   -    3  -   4   - 5 |中等|
 | [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | -  1   -   2   -    3  -   4   - 5 |困难|
 | [21.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | -  1   -   2   -    3  -   4   - 5 |简单|
